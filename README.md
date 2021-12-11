@@ -22,4 +22,5 @@ Este es un archivo con información relevante para el desarrollo.
 
 - Primer Commit PVergara. 14/12/2021
 - Segundo Commit DRoco. 14/12/2021
-- Tercer Comit EBravo. 14/12/2021 
+- Tercer Comit EBravo. 14/12/2021
+- Cuarto Commit JCalfucura 14/12/2021 
