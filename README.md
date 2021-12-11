@@ -20,3 +20,5 @@ Este es un archivo con información relevante para el desarrollo.
 
 #### Fecha de Entrega: 14/12/2021 
 
+Primer Commit PVergara. 14/12/2021
+
